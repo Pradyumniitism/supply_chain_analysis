@@ -1,7 +1,3 @@
-Here’s a detailed README file description for your GitHub project:
-
----
-
 # Supply Chain Analysis
 
 This repository contains a comprehensive analysis of a supply chain dataset using Python, `pandas`, and `plotly` for data manipulation and visualization. The analysis covers various aspects of the supply chain, including product pricing, revenue generation, sales distribution, shipping carriers, defect rates, and more.
@@ -136,6 +132,3 @@ transportation_chart.show()
 
 This analysis provides insights into various components of a supply chain, helping to identify areas for improvement and opportunities to enhance overall efficiency and customer value.
 
----
-
-This README provides a comprehensive guide to your project, making it easy for others to understand and replicate your analysis.
